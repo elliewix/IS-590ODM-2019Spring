@@ -11,24 +11,3 @@ Guest speakers and field experts from the University Library will be invited.  S
 
 IS452 or demonstrated programming experience, 20 hours of completed coursework
 
-## Class Schedule
-
-Classes will meet for 2 hours each week.  The first hour will be technical demonstration, some lecture, etc.  The  second hour will be report outs and project/lab work.
-
-* (August 27) Introduction and interest discussions
-* (September 3) Data publishing landscape and open data sources
-* (September 10) Essential web scraping tools and approaches
-* (September 17) Topic lightning talks and proposal workshopping
-* (September 24) Project & data management and version control & reproducible workflows; proposals due
-* (October 1) Working with tabular data (spreadsheets, CSVs, etc)
-* (October 8) Working with tree data (JSON, XML, etc)
-* (October 15) Working with the file system, large data, and other data storage needs
-* (October 22) Exploratory data analysis and cleaning with Open Refine
-* (October 29) Meshing reproducibility with hands-on data curation, data preservation, data provenance
-* (November 5) Lightning talk project checkins, reporting on lessons learned, etc.
-* (November 12) Data copyright and attribution
-* (November 19) Fall break
-* (November 26)  Data and project documentation
-* (December 3)  Project presentations
-* (December 10) Project presentations
-* Final project submissions due finals week
